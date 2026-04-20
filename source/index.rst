@@ -23,6 +23,7 @@ Page Index
    :caption: Configure:
 
    configure/access_control
+   configure/firewalld
 
 .. toctree::
    :maxdepth: 1
